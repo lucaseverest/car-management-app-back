@@ -18,5 +18,7 @@ $ cd car-management-app-api
 # Restore the dependencies
 $ dotnet restore
 
+# Create appsettings.json and appsettings.Development.json before run
+
 # Run the application
 $ dotnet run
